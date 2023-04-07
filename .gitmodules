@@ -1,0 +1,6 @@
+[submodule "frontends"]
+	path = frontends
+	url = https://github.com/TTTM-Mavericks/-FrontEnd-Fierce-Fashions-.git
+[submodule "backends"]
+	path = backends
+	url = https://github.com/TTTM-Mavericks/-BackEnd-Fierce-Fashions-.git
